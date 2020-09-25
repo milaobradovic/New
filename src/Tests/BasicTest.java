@@ -26,7 +26,7 @@ public abstract class BasicTest {
 
 	protected WebDriver driver;
 	protected WebDriverWait wait;
-	protected String baseURL="";
+	protected String baseURL="http://cms.demo.katalon.com";
 
 
 
